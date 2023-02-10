@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="date_time_icon">icons/date_time_icon.png</file>
+</qresource>
+</RCC>
